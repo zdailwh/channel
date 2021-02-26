@@ -1,0 +1,34 @@
+body {
+  background-color: #F2F6FC;
+}
+.el-menu-demo {
+  padding-left: 20px;
+}
+.el-menu-demo .logo {
+  display: inline-block;
+  height: 60px;
+  width: auto;
+}
+.el-menu-demo .el-menu-item a {
+  display: inline-block;
+}
+.mainWrap {
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+}
+.time-head {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  margin: 0;
+  height: 60px;
+  line-height: 60px;
+  font-size: 30px;
+  text-align: center;
+}
+.pageWrap {
+  margin-top: 20px;
+  text-align: right;
+}
